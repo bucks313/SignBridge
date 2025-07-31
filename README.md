@@ -71,4 +71,4 @@ A real-time sign language translation system using deep learning (C3D, I3D, and 
 ## 📩 Contact
 
 Feel free to reach out if you have any questions or suggestions:  
-📧 [your email here]
+📧 bilalazhar2019@gmail.com
